@@ -2,9 +2,6 @@
 ```
 Bruteforce attack, For educational purpose only
 ```
-## Find here a video on YouTube
-https://youtu.be/qIfGxDmRQIU
-
 ## Install Requirements (on Linux)
 ```
 >> apt-get install git python3 python3-pip python python-pip
